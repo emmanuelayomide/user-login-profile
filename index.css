@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.dashbaord{
+    background-color: #B73CE2;
+    padding-left: 20px;
+    padding-bottom: 80px;
+    padding-top: 20px;
+    position: relative;
+    
+}
+.dashbaord >h1{
+    color: aliceblue;
+}
+ .semicontainer{
+    background-color:#fff;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+    padding: 20px;
+    position:relative;
+    bottom: 14px;
+    
+}
+.semicontainer .deadline{
+    margin-top: 25px;
+    margin-left: 120px;
+    color: red;
+  
+}
+h3{
+    font-weight: lighter;
+    margin-left: 120px;
+}
+.semicontainer >.profileimg{
+    width: 80px;
+height: 80px;
+border-radius: 50%;
+position: absolute;
+top:-40px;
+left: 80%;
+margin: 0;
+}
+p[class="smalltext"]{
+    clear: both;
+ 
+}
+#alone{
+    width: 100px;
+    height: 100px;
+    background-color:#D3DEFA ;
+    border-radius: 50%;
+    float: left;
+}
+.section{
+    background-color: #efe6e6;
+    box-shadow: 4px 4px 4px 4px #8d6363;
+    width: 100%;
+    padding:20px ;
+    margin-top: 25px;
+}
+.section .dwnimg{
+    width: 80px;
+    height: 80px;
+    float: right;
+   
+
+}
+#alone2{
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    background-color:#D3DEFA ;
+    border-radius: 50%;
+    float: left;
+}
+.leftimg{
+    float: right;
+    width:50px;
+    margin-top: 0;
+}
+h4.filesa{
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 20px;
+}
